@@ -28,6 +28,10 @@ ff02::3 ip6-allhosts
 
 0.0.0.0 sessions.bugsnag.com
 
+# [facebook.com]
+0.0.0.0 an.facebook.com
+0.0.0.0 pixel.facebook.com
+
 # [google-analytics.com]
 0.0.0.0 google-analytics.com
 0.0.0.0 ssl.google-analytics.com
